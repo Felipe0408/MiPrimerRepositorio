@@ -1,0 +1,1 @@
+Este es un ejemplo de cuando un compañero hace un commit de un nuevo archivo.
