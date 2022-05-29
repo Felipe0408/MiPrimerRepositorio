@@ -1,0 +1,1 @@
+Ejemplo de cuando un compañero hace un commit y se guarda con un git pull.
